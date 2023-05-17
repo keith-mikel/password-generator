@@ -44,7 +44,7 @@ passwordLength = window.prompt('Please Enter Your Desired Password Length', 'Sel
     alert('Please Select A Smaller Number')
     selectPasswordLength()
   }
-  else if (passwordLength < 7) {
+  else if (passwordLength < 8) {
     alert('Please Select a Larger Number')
     selectPasswordLength()
   }
