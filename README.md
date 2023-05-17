@@ -9,9 +9,9 @@ This project is a passowrd generator used to create strong passwords based on ce
 
 Use SSH github link in order to install this project ssh to install Keith's Project Portfolio.
 
-'''bash 
-git@github.com:keith-mikel/password-generator.git
-'''
+```bash
+clone git@github.com:keith-mikel/password-generator.git
+```
 
 ## Usage
 
