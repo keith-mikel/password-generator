@@ -38,7 +38,7 @@ function writePassword() {
 
 //Password Length Sequence
 function selectPasswordLength() {
-passwordLength = window.prompt('Please Enter Your Desired Password Length', 'Select a number between 7 and 128');
+passwordLength = window.prompt('Please Enter Your Desired Password Length', 'Select a number between 8 and 128');
   
   if (passwordLength > 128) {
     alert('Please Select A Smaller Number')
