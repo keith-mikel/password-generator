@@ -2,6 +2,10 @@
 
 This project is a passowrd generator used to create strong passwords based on certain character and length criteria. This criteria will be prompted to the user when the generate password button is pressed. Once all of the criteria is selected, a random password will be generated using the input criteria (i.e. character type, uppercase, lowercase, numerical, special)
 
+link to page:
+
+https://keith-mikel.github.io/password-generator/
+
 ![alt text](./assets/images/password%20gen.png)
 
 
